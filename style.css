@@ -1,0 +1,53 @@
+.heading{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+}
+.note{
+    color: black;
+    font-size: 15px;
+}
+body{
+    background-image: url('background.jpg');
+    background-size:cover;
+}
+.div_speed{
+    float: left;
+}
+.img_speed{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_volume{
+    float: right;
+}
+.img_volume{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+.play{
+    width: 150px;
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+#myRange{
+    margin-top: 620px;
+    width: 50%;
+}
+#myRange2{
+    margin-top: 60px;
+    width: 50%;
+}
